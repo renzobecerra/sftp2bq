@@ -17,6 +17,6 @@ an sftp server can be found in
 
 - Cloud Function Trigger: [cloud_function_trigger.py](cloud_function_trigger.py)
 
-- SFTP SSH permissions: [DAG_airflow_example.py](sftp_ssh_permissions.txt)
+- SFTP SSH permissions: [DAG_airflow_example.py](DAG_airflow_example.txt)
 
 - Airflow DAG example file: [DAG_airflow_example.py](DAG_airflow_example.py)
