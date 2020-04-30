@@ -1,5 +1,7 @@
 # GCP Pipeline: SFTP >> GCS >> Big Query
 
+Pipeline triggered by an `SFTP` file dump.
+
 #### Set up steps:
 1. SFTP server
 2. GCS bucket mirroring/sync on SFTP server
