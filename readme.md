@@ -1,6 +1,7 @@
 # GCP Pipeline: SFTP >> GCS >> Big Query
 
-Pipeline triggered by an `SFTP` file dump.
+- Pipeline triggered by an `SFTP` file dump.
+- Structure: GCP pipeline: `SFTP` >> `SFTP Mirror` >> `GCS` >> `Cloud Function Trigger` >> `Airflow` >> `BigQuery`
 
 #### Set up steps:
 1. SFTP server
